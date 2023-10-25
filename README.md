@@ -21,12 +21,8 @@ This interactive Tableau dashboard is designed to help you explore and understan
 
 - **Returned Orders by Market & Subcategory:** Insights into returned orders, helping us identify areas for improvement.
 
-- To access and explore the dashboard, follow this link: [Tableau Dashboard Link]: https://public.tableau.com/app/profile/nikita.gund5483/viz/OverallIndustriesSalesAnalysisDashboard/AnalysisDashboard?publish=yes
-
-
-
-https://public.tableau.com/app/profile/nikita.gund5483/viz/OverallIndustriesSalesAnalysisDashboard/AnalysisDashboard?publish=yes
-
+- To access and explore the dashboard, follow this link:
+(https://public.tableau.com/app/profile/nikita.gund5483/viz/OverallIndustriesSalesAnalysisDashboard1/AnalysisDashboard?publish=yes)
 ## Usage
 
 Feel free to share your thoughts and findings, and let's work together to enhance our industry's performance based on these data-driven insights.
